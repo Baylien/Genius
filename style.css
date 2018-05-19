@@ -6,7 +6,8 @@ body {
 h1 {
   font-weight: bold;
   font-size: 100px;
+  color: white;
 }
 .header {
-  background-image: url(C:\Users\Leenab\Desktop\Projects\genius\images\images.png);
+  background-color: black;
 }
