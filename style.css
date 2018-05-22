@@ -11,8 +11,11 @@ h1 {
 .header {
   background-color: black;
 }
-.body {
-  background-image: url(C:\Users\Leenab\Desktop\Projects\genius\images\crook & flail.jpg);
+.bg {
+	background-image: url(C:\Users\Leenab\Desktop\Projects\genius\images\crook & flail.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 
