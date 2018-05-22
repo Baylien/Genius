@@ -44,6 +44,7 @@ nav ul {
 	-o-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	text-align: center;
+	left:0;
 	}
 nav ul li {
 	display: inline-block;
