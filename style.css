@@ -2,6 +2,9 @@ body {
   text-align: center;
   font-family: Helvetica; sans-serif;
   background-image: url(images\Screenshot_20180728-132958.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1 {
   font-weight: bold;
